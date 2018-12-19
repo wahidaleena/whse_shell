@@ -1,5 +1,5 @@
 HOST=DWSSHOME
-databas =Warehouse_Receipts
+database=Warehouse_Receipts
 USER=yourid 
 PASSWD=yourpwd
 filename=N01.Z4.SAMPLE.IN
