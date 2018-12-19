@@ -1,0 +1,7 @@
+HOST=DWSSHOME
+databas =Warehouse_Receipts
+USER=yourid 
+PASSWD=yourpwd
+filename=N01.Z4.SAMPLE.IN
+userid=user@2018
+password=Passw0rd
