@@ -1,4 +1,4 @@
-. shellTest.cfg
+. shellTest.cnf
 
 echo "whse batch started"
 #select rows from database with the given condition by establishing a connection with the db using userid and password
