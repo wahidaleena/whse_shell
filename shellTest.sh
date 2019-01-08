@@ -8,7 +8,7 @@ if [ -f $filename ]
 then
 #setting host of ftp
 echo "initiating file transfer"
-scp $filename $USER@$HOST:/downloads/
+scp $filename $USER@abcdef:/downloads/
 
 else
         echo "no files to transfer"
